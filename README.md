@@ -23,7 +23,7 @@ This client wraps all  Confluence Cloud REST APIs with nodejs, including:
 ## Installation
 
 ```shell
-$ npm install atlassian-confluence-api
+$ npm install confluence-restapi
 ```
 
 

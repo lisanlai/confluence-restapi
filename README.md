@@ -45,7 +45,7 @@ $ npm install confluence-restapi
 2. Create a client instance, like:
 
    ```javascript
-   var ConfluenceAPI = require("ConfluenceAPI");
+   var ConfluenceAPI = require("confluence-restapi");
 
    var confluenceAPI = ConfluenceAPI.create(config);
    ```

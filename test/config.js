@@ -11,8 +11,8 @@
 'use strict';
 
 var Config = {
-    user: "sam.li@grr.la",
-    password: "pass1234",
+    user: "****",
+    password: "****",
     baseUrl:  "https://confluenceapi.atlassian.net/wiki/rest/api"
 }
 
